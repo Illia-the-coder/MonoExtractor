@@ -14,7 +14,7 @@ Dependencies included in this project are:
 
 Follow these steps to obtain your Monobank API Token:
 
-1. Navigate to the Monobank API documentation: [https://api.monobank.ua/docs/](https://api.monobank.ua/docs/)
+1. Navigate to the Monobank API documentation: [https://api.monobank.ua/](https://api.monobank.ua/docs/)
 2. Follow their specific instructions for obtaining an API token.
 
 Note: As of my knowledge cutoff in September 2021, the Monobank API was primarily documented in Ukrainian. You may need to use a translation tool or seek additional help if you don't understand Ukrainian. The process of obtaining an API token may require you to log into your Monobank account, and might be facilitated through the Monobank mobile application.
